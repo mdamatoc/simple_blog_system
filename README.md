@@ -21,7 +21,7 @@ The application requires the following dependencies:
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/simple-blog-system.git
+git clone https://github.com/mdamatoc/simple_blog_system.git
 
 There is no need to install any requirements because all the libraries used in the application are built-in.
 
