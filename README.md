@@ -20,21 +20,22 @@ The application requires the following dependencies:
 ## Installation
 
 1. Clone the repository:
-
+```shell
 git clone https://github.com/mdamatoc/simple_blog_system.git
-
+```
 There is no need to install any requirements because all the libraries used in the application are built-in.
 
 
 2. Navigate to the project directory:
-
+```shell
 cd simple-blog-system
-
+```
 
 3. (Optional) Create a virtual environment:
-
-`python3 -m venv venv`
-`source venv/bin/activate`
+```shell
+python3 -m venv venv
+source venv/bin/activate
+```
 
 
 
